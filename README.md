@@ -4,10 +4,10 @@ Create your database and create the table as shown below to get start with CRUD 
 
 First of all do this->
 
-CREATE TABLE students (
-    id INT(6) AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(191) NOT NULL,
-    email VARCHAR(191) NOT NULL,
-    phone VARCHAR(191) NOT NULL,
-    course VARCHAR(191) NOT NULL
+CREATE TABLE students (<br>
+    id INT(6) AUTO_INCREMENT PRIMARY KEY,<br>
+    name VARCHAR(191) NOT NULL,<br>
+    email VARCHAR(191) NOT NULL,<br>
+    phone VARCHAR(191) NOT NULL,<br>
+    course VARCHAR(191) NOT NULL<br>
 )
