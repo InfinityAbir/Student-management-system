@@ -14,7 +14,7 @@ Before starting, ensure you have the following:
 
 ### Setting Up the Database
 
-1. Create a new database named `crud_db`.
+1. Create a new database named `blog`.
 2. Create a table named `students` with the following structure:
 
 ```sql
